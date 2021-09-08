@@ -57,7 +57,7 @@ group :development, :test do
   gem 'annotate', '~> 3.1.0'
   gem 'brakeman'
   gem 'rspec-rails', '~> 4.0.0.rc1'
-  gem 'better_errors', '~> 2.6.0'
+  gem 'better_errors', '~> 2.8.0'
   gem 'binding_of_caller', '~> 0.8.0'
   gem 'faker', '~> 2.10.0'
   # gem 'pry-byebug', '~> 3.8.0'
